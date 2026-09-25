@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Disallow: /jdbg/print.html
+Disallow: /jdbg/toc.html
+
+Sitemap: https://pavinglayer.github.io/jdbg/sitemap.xml
